@@ -6,7 +6,7 @@ In June 2019 **Laurence Sleator** reported on figures revealing that police were
 
 ## Get the data
 
-TBC
+* XLSX: [Arrests and charges under Vagrancy Act - and reasons](https://github.com/BBC-Data-Unit/vagrancy-arrests/blob/master/Vagrancy%20Act.xlsx)
 
 ## Quotes and interviews
 
