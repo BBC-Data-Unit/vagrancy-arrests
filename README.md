@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/3343/production/_107132131_vagrancy-nc.png)
 
-In June 2019 **Laurence Sleator** [reported on figures revealing that police were using their powers under the Vagrancy Act less](https://github.com/BBC-Data-Unit/vagrancy-arrests). The story, based on data obtained through the Freedom of Information Act, led on police criticism of the law allowing beggars and rough sleepers to be arrested. 
+In June 2019 **Laurence Sleator** [reported on figures revealing that police were using their powers under the Vagrancy Act less](https://www.bbc.co.uk/news/uk-england-48310872). The story, based on data obtained through the Freedom of Information Act, led on police criticism of the law allowing beggars and rough sleepers to be arrested. 
 
 ## Get the data
 
